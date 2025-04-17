@@ -1,9 +1,11 @@
-# Shree-Sadhguru-Krupa
+# Shree Sadhguru Krupa
 
 **Client:** Mrs. Sharda Shankar Patil  
 **Website:** [shreesadgurukrupaenterprises.in](https://shreesadgurukrupaenterprises.in)  
 **Tech Stack:** PHP, MySQL, WordPress, Elementor, Astra Theme  
 **Project Type:** Business Website
+
+![Shree Sadhguru Krupa Homepage](ShreeSadhguruKrupa.png)
 
 ### 🏢 About the Client
 
